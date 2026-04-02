@@ -26,6 +26,13 @@ Morphological Generalisation  Partial   Partial    Strong
 150+ experiments across all model sizes
 Clear scaling-law patterns
 
+Data Sources
+Uses data from CHILDES (Child Language Data Exchange System).
+Experiment                      Corpus                  Child                      Age 
+Wh-Questions            Bliss (norwilli.cha)            Willie                     6;1
+Auxless Questions       Wells (Tony/030608.cha)         Tony                       3;6
+Training                Warren-Leubecker           (david.cha)David                5;10
+Access: https://childes.talkbank.org/ (freely available for research)
 Structure
 notebooks/     # Google Colab experiment notebooks
 data/          # Data sources and CHILDES info
