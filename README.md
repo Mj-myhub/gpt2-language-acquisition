@@ -15,8 +15,11 @@ Morphological generalisation to nonsense words (Berko's wug test)
 
 Key Results
 Experiment                  117M   345M   774M 
+
 Wh-Question Accuracy        ~22%   ~55%   72-78%  
+
 Subject Question Error       40%    25%   15%  
+
 Morphological Generalisation Partial Partial Strong
 
 3.5x improvement on subject questions across scales
