@@ -74,19 +74,6 @@ This project sits at the intersection of:
 - transformer evaluation
 - psycholinguistically motivated NLP
 
-## Repository Structure
-
-```text
-gpt2-language-acquisition/
-│
-├── README.md
-├── gpt2_wh_question_results.png
-├── notebooks/
-├── data/
-├── results/
-└── thesis/
-```
-
 ## Notebook
 
 - [Open the notebook in Colab](https://colab.research.google.com/drive/1rbOlW9w0IQV4G3DPZvOnkFJtJjdtxBH_)
@@ -106,4 +93,4 @@ University of Siena, 2021.
 ## Contact
 
 - [LinkedIn](https://www.linkedin.com/in/majid-jafari-39010413b/)
-- Email: `m.jeffrey2023@gmail.com`
+- Email: [m.jeffrey2023@gmail.com](mailto:m.jeffrey2023@gmail.com)
