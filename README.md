@@ -85,3 +85,25 @@ gpt2-language-acquisition/
 ├── data/
 ├── results/
 └── thesis/
+```
+
+## Notebook
+
+- [Open the notebook in Colab](https://colab.research.google.com/drive/1rbOlW9w0IQV4G3DPZvOnkFJtJjdtxBH_)
+
+## Full Thesis
+
+- [Read the full thesis on ResearchGate](https://www.researchgate.net/publication/387508907_How_children_accurately_predict_the_integration_of_incoming_words_into_phrase_structure?channel=doi&linkId=6771e4fbfb9aff6eaaf7f566&showFulltext=true)
+
+## Citation
+
+If you would like to reference this work:
+
+**Jafari, Majid**  
+*How children accurately predict the integration of incoming words into phrase structure.*  
+University of Siena, 2021.
+
+## Contact
+
+- [LinkedIn](https://www.linkedin.com/in/majid-jafari-39010413b/)
+- Email: `m.jeffrey2023@gmail.com`
