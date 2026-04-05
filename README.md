@@ -48,7 +48,7 @@ Performance improved consistently with model scale, especially on wh-question un
 
 ## Visual Summary
 
-![GPT-2 accuracy on wh-question benchmarks](results/gpt2_wh_question_results.png)
+![GPT-2 accuracy on wh-question benchmarks](gpt2_wh_question_results.png)
 
 This figure shows wh-question accuracy across the 117M, 345M, and 774M GPT-2 models, with clear improvements as model scale increases.
 
@@ -80,6 +80,7 @@ This project sits at the intersection of:
 gpt2-language-acquisition/
 │
 ├── README.md
+├── gpt2_wh_question_results.png
 ├── notebooks/
 ├── data/
 ├── results/
